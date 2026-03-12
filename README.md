@@ -1,15 +1,26 @@
-# python-mini-projects
+# Python Mini Projects
+
 This repository contains simple Python CLI projects created for learning.
 
-Project:
 1. Calculator
-2. Quiz game
-3. Password generator
-4. To-do list
+File: calculator.py  
+Simple calculator with add, subtract, multiply, divide.
 
-Concepts used:
-* if / elif / else
-* loops
-* fuctions
-* lists
-* error handling
+2. Quiz Game
+File: quiz-game.py  
+Simple multiple choice quiz game.
+
+3. Password Generator
+File: password-generator.py  
+Random password generator with strength checker.
+
+4. To-Do List
+File: to-do-list.py  
+CLI program to add, view, and delete tasks.
+
+## Concepts Used
+- if / elif / else
+- loops
+- functions
+- lists
+- error handling
