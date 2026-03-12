@@ -1,12 +1,12 @@
-print("=== To-do list ===")
-print("1.Tambah Tugas")
-print("2.Lihat Tugas")
-print("3.Hapus Tugas")
-print("4.Keluar")
+print("\n=== To-do list ===")
+print("\n  1.Tambah Tugas")
+print("  2.Lihat Tugas")
+print("  3.Hapus Tugas")
+print("  4.Keluar")
 
 tugas_list = []
 while True:
-    a = input("Silahkan pilih menu di atas (1-4): ")
+    a = input("\nSilahkan pilih menu di atas (1-4): ")
 
     if a == '1':
         tugas = input("Masukkan tugas baru : ")
